@@ -209,7 +209,10 @@ margin: 20px ;
   width: 100%;
 } 
 
-
+footer{
+  background-color: #f5f5f5;
+  color: #999;
+}
 @media screen and (max-width:576px) {
   .navbar,nav ul ,.teams,.feature1{
      flex-direction: column;
